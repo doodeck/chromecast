@@ -1,0 +1,27 @@
+{
+  "name": "chromecast",
+  "version": "0.0.1",
+  "description": "A set of Chromecast applications, mostly modified tests collected ovet Net",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/doodeck/chromecast"
+  },
+  "keywords": [
+    "chromecast",
+    "streaming",
+    "video"
+  ],
+  "author": " <doodeck@users.noreply.github.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doodeck/doodeck/issues"
+  },
+  "homepage": "https://github.com/doodeck/doodeck",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
