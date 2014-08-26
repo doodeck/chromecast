@@ -26,7 +26,7 @@ module.exports = function(grunt) {
               // Target-specific options go here
 	      'data': {
                 'version': '<%= pkg.version %>',
-	        'author': 'moi',
+	        'author': '<%= pkg.author %>',
 	        'content': 'Lorem ipsum dolor sit amet.'
 	      }
             },
